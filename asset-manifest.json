@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/carlogy/my-portoflio/static/css/main.073c9b0a.css",
+    "main.js": "/carlogy/my-portoflio/static/js/main.6fede368.js",
+    "static/js/787.128fc6e9.chunk.js": "/carlogy/my-portoflio/static/js/787.128fc6e9.chunk.js",
+    "static/media/logo.svg": "/carlogy/my-portoflio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/carlogy/my-portoflio/index.html",
+    "main.073c9b0a.css.map": "/carlogy/my-portoflio/static/css/main.073c9b0a.css.map",
+    "main.6fede368.js.map": "/carlogy/my-portoflio/static/js/main.6fede368.js.map",
+    "787.128fc6e9.chunk.js.map": "/carlogy/my-portoflio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6fede368.js"
+  ]
+}
