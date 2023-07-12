@@ -1,38 +1,193 @@
-.App {
+body {
+  margin: 0;
   text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514e;
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #A4EBF3;
+  line-height: 2;
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
   }
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #A4EBF3;
+  padding-bottom: 10px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #A4EBF3;
+  font-weight: bold;
+  display: inline-block;
 }
 
-.App-link {
-  color: #61dafb;
+p {
+  line-height: 2;
+
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+
+
+.contact-message {
+  margin: 40px auto 60px;
+  width: 40%;
+}
+.copyright {
+  color: #F4F9F9;
+  font-size: .75rem;
+  padding: 20px 0;
+
+}
+.top-container {
+  background-color: #F4F9F9;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.middle-container {
+  margin: 100px auto;
+
+}
+
+.bottom-container {
+  background-color: #A4EBF3 ;
+ padding: 50px 0 20px;
+
+}
+
+.sun {
+  position: absolute;
+  right: 12rem;
+  top: 25rem;
+  width: 8%;
+}
+
+
+.surfboards {
+  width: 15%;
+  position: absolute;
+  left: 15rem;
+  bottom: 2rem;
+}
+
+.beach-image {
+  width: 55%;
+  margin: 0 auto;
+}
+
+.headshot {
+  width: 25%;
+}
+.code-icon {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+
+.pm-icon {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.profile {
+  width: 50%;
+  margin: 100px auto;
+}
+
+.skill-row  {
+  width: 50%;
+  margin: 100px auto 150px;
+  text-align: left;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #AAAAAA;
+  border-width: 5px;
+  width: 5%;
+
+
+}
+
+
+.btn {
+  background: #CCF2F4;
+  background-image: -webkit-linear-gradient(top, #CCF2F4, #A4EBF3);
+  background-image: -moz-linear-gradient(top, #CCF2F4, #A4EBF3);
+  background-image: -ms-linear-gradient(top, #CCF2F4, #A4EBF3);
+  background-image: -o-linear-gradient(top, #CCF2F4, #A4EBF3);
+  background-image: linear-gradient(to bottom, #CCF2F4, #A4EBF3);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #A4EBF3;
+  background-image: -webkit-linear-gradient(top, #A4EBF3, #A4EBF3);
+  background-image: -moz-linear-gradient(top, #A4EBF3, #A4EBF3);
+  background-image: -ms-linear-gradient(top, #A4EBF3, #A4EBF3);
+  background-image: -o-linear-gradient(top, #A4EBF3, #A4EBF3);
+  background-image: linear-gradient(to bottom, #A4EBF3, #A4EBF3);
+  text-decoration: none;
+}
+
+
+.footer-link {
+ color: #AAAAAA;
+ font-family: 'Montserrat', sans-serif;
+ margin: 10px 20px;
+ text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #F4F9F9;
+}
+
+@media screen and (max-width: 768px) {
+  .sun {
+    right: 9rem;
+    top: 25rem;
+    width: 10%;
+    position: absolute;
   }
-  to {
-    transform: rotate(360deg);
+  .surfboards {
+      left: 15rem;
+      bottom: 1.3rem;
+      width: 20%;
+      position: absolute;
+    }
+}
+
+@media screen and (max-width: 400px) {
+  .sun {
+    right: 2.7rem;
+    top: 26rem;
+    width: 15%;
+    position: absolute;
+  }
+  .surfboards {
+    left: 6rem;
+    bottom: 1rem;
+    width: 22%;
+    position: absolute;
   }
 }
