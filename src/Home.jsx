@@ -3,6 +3,7 @@ import React from 'react';
 import logo from './logo.svg';
 import Landing from './Components/Landing';
 import Footer from './Components/Footer';
+import Contact from './Components/Contact';
 
 
 
@@ -14,6 +15,7 @@ const Home = () => {
         <div>
 
             <Landing />
+            <Contact />
             <Footer/>
         </div>
 
