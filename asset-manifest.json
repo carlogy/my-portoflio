@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/carlogy/my-portoflio/static/css/main.073c9b0a.css",
-    "main.js": "/carlogy/my-portoflio/static/js/main.6fede368.js",
+    "main.css": "/carlogy/my-portoflio/static/css/main.88046c03.css",
+    "main.js": "/carlogy/my-portoflio/static/js/main.bc55eb0e.js",
     "static/js/787.128fc6e9.chunk.js": "/carlogy/my-portoflio/static/js/787.128fc6e9.chunk.js",
+    "static/media/me1-modified.png": "/carlogy/my-portoflio/static/media/me1-modified.5c8c4602a223225c882f.png",
+    "static/media/beach.png": "/carlogy/my-portoflio/static/media/beach.9510c89385f186729202.png",
+    "static/media/surfboards.png": "/carlogy/my-portoflio/static/media/surfboards.cc98bc910c17728e66e8.png",
+    "static/media/product-management.png": "/carlogy/my-portoflio/static/media/product-management.d97e35af7c6b13282f97.png",
+    "static/media/sun1.png": "/carlogy/my-portoflio/static/media/sun1.325dc7d2ead5a190a312.png",
+    "static/media/code.png": "/carlogy/my-portoflio/static/media/code.82dbefcac04dda008a7c.png",
     "static/media/logo.svg": "/carlogy/my-portoflio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/carlogy/my-portoflio/index.html",
-    "main.073c9b0a.css.map": "/carlogy/my-portoflio/static/css/main.073c9b0a.css.map",
-    "main.6fede368.js.map": "/carlogy/my-portoflio/static/js/main.6fede368.js.map",
+    "main.88046c03.css.map": "/carlogy/my-portoflio/static/css/main.88046c03.css.map",
+    "main.bc55eb0e.js.map": "/carlogy/my-portoflio/static/js/main.bc55eb0e.js.map",
     "787.128fc6e9.chunk.js.map": "/carlogy/my-portoflio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6fede368.js"
+    "static/css/main.88046c03.css",
+    "static/js/main.bc55eb0e.js"
   ]
 }
