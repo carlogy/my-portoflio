@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   text-align: center;
@@ -35,6 +36,11 @@ p {
 
 }
 
+.intro {
+  margin: 40px auto 60px;
+
+}
+
 
 
 .contact-message {
@@ -62,6 +68,7 @@ p {
 .bottom-container {
   background-color: #A4EBF3 ;
   margin-top: 100px;
+
   padding: 50px 0 20px;
 
 }

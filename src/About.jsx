@@ -1,23 +1,27 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
+import Footer from './Components/Footer';
 
-const divStyle = {
-    color:'white'
-};
+const About = () => {
 
-class About extends React.Component {
+    return (
 
-    render() {
-        return (
-            <div style={divStyle}>
-                <h2>About Page</h2>
-                <main>
-                    <p>This section contains information about...</p>
-                </main>
-            </div>
-        )
-    }
+        <div className='top-container'>
+        <div>
+        <h1>About Me</h1>
+        </div>
+        <div className='middle-container'>
+        <h2>My name is Carlo. I am have a deep passion for technology.</h2>
+        <h3>Full Bio Coming Soon!</h3>
+        </div>
+        <div>
+          <Link to="/" className="btn">Back</Link>
+        </div>
+        <Footer />
+        </div>
+
+    );
+
 }
-
-
 
 export default About;
