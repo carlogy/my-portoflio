@@ -13,11 +13,11 @@ function Landing() {
   return (
   <div>
     <div className="top-container">
-        <img className="sun" src={sun1} alt="sun-img"/>
+        {/* <img className="sun" src={sun1} alt="sun-img"/> */}
         <h1>I'm Carlo.</h1>
         <h2>a  programmer.</h2>
-        <img className="surfboards" src={surfboards}alt="surboards-img"/>
-        <img className="beach-image" src={beach} alt="beach-img"/>
+        {/* <img className="surfboards" src={surfboards}alt="surboards-img"/>
+        <img className="beach-image" src={beach} alt="beach-img"/> */}
     </div>
     <div class="middle-container">
         <div className="profile">
