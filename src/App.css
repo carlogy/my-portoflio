@@ -120,6 +120,30 @@ p {
   text-align: left;
 }
 
+.skillp {
+  padding-bottom: 1rem;
+}
+.projects {
+  position: relative;
+  right: 1;
+}
+
+.project-containert {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 2rem;
+
+
+}
+
+.task-frame {
+  border-style: solid;
+  border-width: medium;
+  border-color: #A4EBF3;
+  border-radius: 25px;
+
+}
+
 hr {
   border-style: none;
   border-top-style: dotted;
