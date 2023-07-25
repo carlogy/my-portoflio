@@ -33,15 +33,11 @@ h3 {
 
 p {
   line-height: 2;
-
 }
 
 .intro {
   margin: 40px auto 60px;
-
 }
-
-
 
 .contact-message {
   margin: 40px auto 60px;
@@ -109,6 +105,7 @@ p {
   float: right;
   margin-left: 30px;
 }
+
 .profile {
   width: 50%;
   margin: 100px auto;
@@ -123,6 +120,7 @@ p {
 .skillp {
   padding-bottom: 1rem;
 }
+
 .projects {
   position: relative;
   right: 1;
@@ -133,8 +131,7 @@ p {
   flex-wrap: wrap;
   justify-content: space-evenly;
   padding-bottom: 2rem;
-
-
+  padding-top: 3rem;
 }
 
 .project-frame {
@@ -144,6 +141,12 @@ p {
   border-radius: 25px;
   margin-bottom: 1rem;
 
+}
+
+.project-description {
+  margin: auto;
+  padding-bottom: 0.5rem;
+  width: 50%;
 }
 
 hr {
@@ -196,63 +199,10 @@ hr {
   color: #F4F9F9;
 }
 
-@media screen and (min-width: 1500px) {
-  .sun {
-    right: 20rem;
-    top: 25.3rem;
-    width: 10%;
-    position: absolute;
-  }
-  .surfboards {
-      left: 30rem;
-      bottom: 1.3rem;
-      width: 20%;
-      position: absolute;
-    }
-}
-
-
-@media screen and (max-width: 1024) {
-  .sun {
-    right: 9rem;
-    top: 25.5rem;
-    width: 10%;
-    position: absolute;
-  }
-  .surfboards {
-      left: 15rem;
-      bottom: 1.3rem;
-      width: 20%;
-      position: absolute;
-    }
-}
-
-@media screen and (max-width: 768px) {
-  .sun {
-    right: 9rem;
-    top: 25.3rem;
-    width: 10%;
-    position: absolute;
-  }
-  .surfboards {
-      left: 15rem;
-      bottom: 1.3rem;
-      width: 20%;
-      position: absolute;
-    }
-}
 
 @media screen and (max-width: 400px) {
-  .sun {
-    right: 4rem;
-    top: 27rem;
-    width: 12%;
-    position: absolute;
-  }
-  .surfboards {
-    left: 6rem;
-    bottom: 1rem;
-    width: 22%;
-    position: absolute;
+  .code-icon, .pm-icon {
+    width: 40%;
+    margin-bottom: 0%;
   }
 }
