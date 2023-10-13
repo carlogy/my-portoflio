@@ -18,7 +18,10 @@ function Landing() {
         <div className="profile">
           <img className="headshot" src={me1} alt="headshot"/>
           <h2>Hello.</h2>
-          <p className="intro">I'm a product manager/developer based in Jacksonville, Florida. I have a passion for technology and love to create for web and mobile devices.</p>
+          <p className="intro"> I'm a product manager at SS&C technologies based in Jacksonville, Florida.
+          With a passion for technology that has led me to learn web development.
+          For more about me visit my Bio.
+          </p>
           <div>
           <Link to="/about" className="btn">Bio</Link>
           </div>
