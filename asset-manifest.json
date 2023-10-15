@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/my-portoflio/static/css/main.6ba7e3f1.css",
-    "main.js": "/my-portoflio/static/js/main.6548f083.js",
+    "main.css": "/my-portoflio/static/css/main.363caf63.css",
+    "main.js": "/my-portoflio/static/js/main.b77c94f7.js",
     "static/js/787.128fc6e9.chunk.js": "/my-portoflio/static/js/787.128fc6e9.chunk.js",
     "static/media/me1-modified.png": "/my-portoflio/static/media/me1-modified.5c8c4602a223225c882f.png",
     "static/media/product-management.png": "/my-portoflio/static/media/product-management.d97e35af7c6b13282f97.png",
     "static/media/code.png": "/my-portoflio/static/media/code.82dbefcac04dda008a7c.png",
     "index.html": "/my-portoflio/index.html",
-    "main.6ba7e3f1.css.map": "/my-portoflio/static/css/main.6ba7e3f1.css.map",
-    "main.6548f083.js.map": "/my-portoflio/static/js/main.6548f083.js.map",
+    "main.363caf63.css.map": "/my-portoflio/static/css/main.363caf63.css.map",
+    "main.b77c94f7.js.map": "/my-portoflio/static/js/main.b77c94f7.js.map",
     "787.128fc6e9.chunk.js.map": "/my-portoflio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ba7e3f1.css",
-    "static/js/main.6548f083.js"
+    "static/css/main.363caf63.css",
+    "static/js/main.b77c94f7.js"
   ]
 }
