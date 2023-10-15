@@ -15,12 +15,16 @@ const Projects = () => {
         <h3>More Projects Coming Soon!</h3>
         <div className='project-container'>
             <div>
-                <p className='project-description'> Task Manager web application using Nextjs, Reactjs, and TailwindCSS. This application is hosted on vercel.</p>
-                <iframe className='project-frame' width={360} height={600} title='TaskManagerApp' src='https://task-manager-carlogy.vercel.app/'></iframe>
+                <p className='project-description'> Task Manager utilizing Nextjs, Reactjs, and TailwindCSS. Hosted on vercel.</p>
+                <iframe className='project-frame' width={375} height={600} title='TaskManagerApp' src='https://task-manager-carlogy.vercel.app/'></iframe>
             </div>
             <div>
-                <p className='project-description'>Blog webapp using Denojs, Preactjs, Twind for TailwindCSS, utilizing Deno KV DB. This application is hosted on Deno.land. </p>
-                <iframe className='project-frame' width={360} height={600} title='Blog website' src='https://carlogyblog.deno.dev/'></iframe>
+                <p className='project-description'>Blog webapp using Denojs, Preactjs, and Twind. It utilizes Deno KV DB. Hosted on Deno.land.</p>
+                <iframe className='project-frame' width={375} height={600} title='Blog website' src='https://carlogyblog.deno.dev/'></iframe>
+            </div>
+            <div>
+                <p className='project-description'>Random Quote Generator utilizing Nextjs, Reactjs, and TailwindCSS Hosted on Vercel.</p>
+                <iframe className='project-frame' width={375} height={600} title='RandomQuoteGenerator' src='https://random-quote-generator-carlogy.vercel.app/'></iframe>
             </div>
 
 
