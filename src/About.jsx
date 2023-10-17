@@ -5,6 +5,7 @@ import Footer from './Components/Footer';
 const About = () => {
 
     return (
+
         <div>
         <div className='top-container'>
 
@@ -13,29 +14,30 @@ const About = () => {
 
         </div>
         <div className='middle-container'>
+        <div className='profile'>
+          <h2> My name is Carlo and I have a deep passion for technology, traveling, reading, video games, and anime.</h2>
 
-        <h2> My name is Carlo and I have a deep passion for technology, traveling, reading, video games, and anime.</h2>
+          <h3>Traveling</h3>
 
-        <h3>Traveling</h3>
+            <p className=''>Travel highlights coming soon!</p>
 
-        <p className='descriptions'>Travel highlights coming soon!</p>
-
-        <hr/>
+            <hr/>
 
 
 
-        <h3>Reading</h3>
-        <p className='descriptions'>Favorite books and genre's coming soon</p>
+          <h3>Reading</h3>
+          <p className=''>Favorite books and genre's coming soon</p>
 
-        <hr/>
-        {/* <h2>Traveling</h2>
-        <p >
-          I love to travel! Check out some of my highlights from around the globe!
-        </p>
-        <h3>Photos coming soon!</h3> */}
+          <hr/>
+          {/* <h2>Traveling</h2>
+          <p >
+            I love to travel! Check out some of my highlights from around the globe!
+          </p>
+          <h3>Photos coming soon!</h3> */}
 
-        <h3> Full Bio Coming Soon! </h3>
+          <h3> Full Bio Coming Soon! </h3>
 
+        </div>
         <div>
         <Link to="/" className="btn">Back</Link>
         </div>
