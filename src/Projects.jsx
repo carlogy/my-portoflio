@@ -16,15 +16,15 @@ const Projects = () => {
         <div className='project-container'>
             <div>
                 <p className='project-description'> Task Manager utilizing Nextjs, Reactjs, and TailwindCSS. Hosted on vercel.</p>
-                <iframe className='project-frame' width={375} height={600} title='TaskManagerApp' src='https://task-manager-carlogy.vercel.app/'></iframe>
+                <iframe className='project-frame' width={375} height={675} title='TaskManagerApp' src='https://task-manager-carlogy.vercel.app/'></iframe>
             </div>
             <div>
                 <p className='project-description'>Blog webapp using Denojs, Preactjs, and Twind. It utilizes Deno KV DB. Hosted on Deno.land.</p>
-                <iframe className='project-frame' width={375} height={600} title='Blog website' src='https://carlogyblog.deno.dev/'></iframe>
+                <iframe className='project-frame' width={375} height={675} title='Blog website' src='https://carlogyblog.deno.dev/'></iframe>
             </div>
             <div>
                 <p className='project-description'>Random Quote Generator utilizing Nextjs, Reactjs, and TailwindCSS Hosted on Vercel.</p>
-                <iframe className='project-frame' width={375} height={600} title='RandomQuoteGenerator' src='https://random-quote-generator-carlogy.vercel.app/'></iframe>
+                <iframe className='project-frame' width={375} height={675} title='RandomQuoteGenerator' src='https://random-quote-generator-carlogy.vercel.app/'></iframe>
             </div>
 
 
