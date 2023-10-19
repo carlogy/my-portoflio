@@ -196,6 +196,21 @@ hr {
 }
 
 
+.link {
+  color: #AAAAAA;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+ }
+
+ .link:hover {
+   color: #A4EBF3;
+ }
+
+
+
+
+
+
 .footer-link {
  color: #AAAAAA;
  font-family: 'Montserrat', sans-serif;
