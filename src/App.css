@@ -40,6 +40,11 @@ p {
   line-height: 2;
 }
 
+.intro-header {
+  padding-bottom: 1.2rem;
+
+}
+
 .intro  {
   margin: 40px auto 60px;
 }
