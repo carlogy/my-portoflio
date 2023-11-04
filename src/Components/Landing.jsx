@@ -11,7 +11,7 @@ function Landing() {
     <div className="top-container">
 
         <h1>I'm Carlo.</h1>
-        <h2 className="intro-header">a  programmer.</h2>
+        <h2 className="intro-header">a software engineer.</h2>
 
     </div>
     <div className="middle-container">
