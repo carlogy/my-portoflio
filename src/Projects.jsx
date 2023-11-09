@@ -28,6 +28,13 @@ const Projects = () => {
                         <p className='project-description'>Random Quote Generator utilizing Nextjs, Reactjs, and TailwindCSS Hosted on Vercel.</p>
                         <iframe className='project-frame' width={375} height={675} title='RandomQuoteGenerator' src='https://random-quote-generator-carlogy.vercel.app/'></iframe>
                     </div>
+                    <div>
+                        <p className='project-description'>Calculator app using HTML, CSS, JavaScript.</p>
+                        <iframe className='project-frame' width={375} height={675} title='CalculatorApp' src='https://carlogy.github.io/Calculator-App/'></iframe>
+                    </div>
+
+
+
                     {/* <div>
                     <p className='project-description'>A C# console app that parses files for keywords and generates a filtered file and saves it to a file path of choice.
                     <a className='link' href="https://github.com/carlogy/CsvFileParser"> Repo Here</a>
